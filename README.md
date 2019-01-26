@@ -51,6 +51,10 @@ source ~/.bashrc
 speedtest
 ```
 
+## 测速效果图
+
+![img](https://i.natfrp.org/90a86a02e1c7d9e22ec1f886e4f89f66.gif)
+
 ### 装逼虽好，不要贪装哦
 
 快用神仙一般的网速去吓死你的小伙伴吧！
