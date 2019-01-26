@@ -36,7 +36,7 @@ vi ~/.bashrc
 在结尾增加一行，添加一个命令别名
 
 ```
-alias speedtest='php speedtest.php'
+alias speedtest='php ~/speedtest-fake/speedtest.php'
 ```
 
 让配置生效
