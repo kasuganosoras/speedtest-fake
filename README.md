@@ -71,7 +71,7 @@ speedtest
 
 ## 测速效果图
 
-![img](https://i.natfrp.org/90a86a02e1c7d9e22ec1f886e4f89f66.gif)
+![img](https://i.natfrp.org/90a86a02e1c7d9e22ec1f886e4f89f66.gif?s=1)
 
 ### 装逼虽好，不要贪装哦
 
